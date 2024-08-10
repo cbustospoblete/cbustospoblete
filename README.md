@@ -27,15 +27,6 @@ I have had the opportunity to work with various technologies and tools, which ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbustospoblete&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Connect with Me
-
-<p>Feel free to reach out to me on:
-<br>
-<a target="_blank" href="[https://www.linkedin.com/in/carlos-bustos](https://www.linkedin.com/in/carlos-bustos-poblete/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:cbustospoblete@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
-
 ---
 
 **Credit:** [cbustospoblete](https://github.com/cbustospoblete)
